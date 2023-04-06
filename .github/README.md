@@ -3,7 +3,7 @@
 ![preview](./telaLogin.PNG)
 
 
-Projeto construído no desafio 11 do boraCodar da rockeatseat.
+Projeto construído com base no desafio 11 do boraCodar da rockeatseat.
 
 ## 🛠 Tecnologias
 
