@@ -9,7 +9,7 @@ Projeto construído com base no desafio 11 do boraCodar da rockeatseat.
 
 - React 
 - TS
-- Tailwindcss
+- TailwindCSS
 - Git e Github
 
 ## 💛 Contato
